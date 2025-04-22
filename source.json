@@ -15,9 +15,6 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "reava/UwUtils",
-        "reava/U-Key",
-        "reava/PortableWorldMenu",
-        "reava/Bakery-Mass-Editor",
-        "reava/Unity-Rich-Presence"
+        "reava/Bakery-Mass-Editor"
     ]
 }
